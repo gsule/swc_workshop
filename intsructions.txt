@@ -5,3 +5,4 @@ get A4 siz white paper
 3 fold the 2 triangels lengthwise
 4. Finish the airplane
 5. Fly!
+6. Another step not added on website. 
